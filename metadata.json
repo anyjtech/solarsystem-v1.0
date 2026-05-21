@@ -1,0 +1,8 @@
+{
+  "name": "3D Solar System Simulation",
+  "description": "An interactive, high-fidelity 3D solar system simulation featuring realistic orbital paths, camera rotation and zoom, and detailed scientific breakdowns of each planet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
