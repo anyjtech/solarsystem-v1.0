@@ -60,7 +60,7 @@ export default function App() {
           <div className="w-8 h-8 rounded-full bg-gradient-to-tr from-orange-500 to-yellow-300"></div>
           <div>
             <h1 className="text-lg font-bold tracking-widest uppercase">
-              AstroSim <span className="font-thin opacity-50">Helios v2.4</span>
+              Solar System Sim <span className="font-thin opacity-50">AstroOs v1.0</span>
             </h1>
             <p className="text-[10px] font-mono text-gray-400 opacity-60 tracking-wider">
               HIGH-FIDELITY FROSTED ORRERY 3D
